@@ -1,0 +1,24 @@
+<root>
+	<scores>
+		<category name="Math">
+		<score><nickname>Avi</nickname><points>54</points></score><score><nickname>Ori</nickname><points>33</points></score><score><nickname>Steve</nickname><points>50</points></score><score><nickname>Me</nickname><points>46</points></score><score><nickname>myself</nickname><points>48</points></score><score><nickname>andI</nickname><points>48</points></score><score><nickname>Ken</nickname><points>45</points></score><score><nickname>asdf</nickname><points>38</points></score><score><nickname>asdfds</nickname><points>55</points></score><score><nickname>Hey</nickname><points>71</points></score><score><nickname>rrtt</nickname><points>55</points></score><score><nickname>asd</nickname><points>15</points></score><score><nickname>fgh</nickname><points>17</points></score><score><nickname>Daniel</nickname><points>29</points></score><score><nickname>Halel</nickname><points>33</points></score><score><nickname>Steve</nickname><points>0</points></score><score><nickname>Avi</nickname><points>7</points></score><score><nickname>Shlomi</nickname><points>3</points></score><score><nickname>Ido</nickname><points>44</points></score><score><nickname>Hila</nickname><points>54</points></score><score><nickname>Rotem</nickname><points>43</points></score><score><nickname>Malachi</nickname><points>33</points></score><score><nickname>Malachi</nickname><points>8</points></score><score><nickname>Bar</nickname><points>10</points></score></category>
+		<category name="Riddle">
+		<score><nickname>Check</nickname><points>15</points></score><score><nickname>check</nickname><points>19</points></score><score><nickname>miki</nickname><points>33</points></score><score><nickname>Malachi</nickname><points>34</points></score><score><nickname>Matan</nickname><points>15</points></score><score><nickname>Bar</nickname><points>19</points></score><score><nickname>Bar</nickname><points>45</points></score><score><nickname>Malachi</nickname><points>29</points></score><score><nickname>test3</nickname><points>0</points></score></category>
+			<category name="History">
+		<score><nickname>Tomy</nickname><points>62</points></score><score><nickname>Tomy</nickname><points>22</points></score><score><nickname>Tim</nickname><points>41</points></score></category>
+	</scores>
+	<credentials>
+        <user>
+            <username>user1</username>
+            <password>pass1</password>
+        </user>
+        <user>
+            <username>user</username>
+            <password>1234</password>
+        </user>
+		<user>
+            <username>guest</username>
+            <password>abcd</password>
+        </user>
+    </credentials>
+</root>
