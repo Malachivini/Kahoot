@@ -1,6 +1,6 @@
 # Kahoot
 Kahoot game with server and clients
-
+<div dir="rtl", align="right">
 
 נושא:
 בפרויקט הגמר, התבקשתי לבנות ממשק שרת-לקוחות המשמש כמשחק "Kahoot" עם מס' חידונים רבי משתתפים. הלקוחות צריכים להתחבר לשרת ודרכו לקבל את השאלות, הנתונים על שאר המשתתפים וכד'.
@@ -192,3 +192,5 @@ handle_game_over & show_game_over_gui:
 
 restart_game:
 לאחר לחיצה על restart, נחזור לחלון הראשי, בו ניתן לבחור חידון וכינוי חדשים.
+
+</div>
